@@ -78,10 +78,21 @@ h1 {
     text-align: center;
 }
 
+.Amount-tk h5 {
+    background-color: azure;
+    margin-left: 3px;
+    margin-right: 3px;
+
+}
+
 .Donate-plan {
     justify-content: center;
     align-items: center;
 
+}
+
+.donate hr {
+    margin: 10px 170px 30px 170px;
 }
 
 #Kinds-of-plan {
@@ -104,6 +115,7 @@ h1 {
     background-color: antiquewhite;
     background-image: url(symbol/food.png);
     background-repeat: no-repeat;
+    padding: 50px 5px 25px 5px;
 
 }
 
@@ -112,6 +124,7 @@ h1 {
     border-radius: 9px;
     background-image: url(symbol/shelter.png);
     background-repeat: no-repeat;
+    padding: 50px 5px 25px 5px;
 }
 
 .colum03 {
@@ -119,4 +132,45 @@ h1 {
     border-radius: 15px;
     background-image: url(symbol/Frame-1.png);
     background-repeat: no-repeat;
+    padding: 50px 5px 25px 5px;
+}
+
+.subscrib {
+    justify-content: center;
+    display: flex;
+    background-color: aqua;
+    margin: 30px 300px;
+    padding: 60px 100px;
+    border: 50%;
+}
+
+#e1 {
+    background-color: blanchedalmond;
+}
+
+#s1 {
+    background-color: blueviolet;
+}
+
+.last {
+    background-color: black;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: 0;
+}
+
+#bh {
+    color: red;
+    font-family: 'Arima', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    padding: 20px 5px 5px 4px;
+
+}
+
+.last p {
+    color: white;
+    padding-bottom: 20px;
+
+
 }
