@@ -47,18 +47,32 @@ h1 {
     text-align: center;
 }
 
-.tk {
+
+.Amount-tk h5 {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 20px 20px 20px 20px;
     text-align: center;
+    font-size: 20px;
+    font-weight: lighter;
+    word-spacing: 45px;
+
 }
 
-.Two {
+.container {
 
     justify-content: center;
     align-items: center;
-    padding: 20px 1px 10px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+
+}
+
+.Amount-tk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px 20px 20px;
     text-align: center;
 }
