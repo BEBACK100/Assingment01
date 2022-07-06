@@ -25,6 +25,8 @@ body {
     width: 100%;
     justify-content: center;
     align-items: center;
+    padding: 20px 1px 10px;
+    text-align: center;
 
 }
 
@@ -42,5 +44,21 @@ h1 {
 }
 
 .main-pic {
+    text-align: center;
+}
+
+.tk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.Two {
+
+    justify-content: center;
+    align-items: center;
+    padding: 20px 1px 10px;
     text-align: center;
 }
