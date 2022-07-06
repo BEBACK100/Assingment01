@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-image: url(donate2.jpg);
+    text-align: center;
 }
 
 .main-pic {
@@ -75,4 +76,47 @@ h1 {
     align-items: center;
     padding: 20px 20px 20px 20px;
     text-align: center;
+}
+
+.Donate-plan {
+    justify-content: center;
+    align-items: center;
+
+}
+
+#Kinds-of-plan {
+    display: flex;
+    width: 900px;
+    margin: 0 auto;
+
+}
+
+.colum01,
+.colum02,
+.colum03 {
+    width: 280px;
+    float: left;
+    margin: 10px;
+
+}
+
+.colum01 {
+    background-color: antiquewhite;
+    background-image: url(symbol/food.png);
+    background-repeat: no-repeat;
+
+}
+
+.colum02 {
+    background-color: aquamarine;
+    border-radius: 9px;
+    background-image: url(symbol/shelter.png);
+    background-repeat: no-repeat;
+}
+
+.colum03 {
+    background-color: blueviolet;
+    border-radius: 15px;
+    background-image: url(symbol/Frame-1.png);
+    background-repeat: no-repeat;
 }
