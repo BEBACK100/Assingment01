@@ -115,7 +115,9 @@ h1 {
     background-color: antiquewhite;
     background-image: url(symbol/food.png);
     background-repeat: no-repeat;
-    padding: 50px 5px 25px 5px;
+    padding: 50px 50px 15px 5px;
+
+
 
 }
 
@@ -124,7 +126,8 @@ h1 {
     border-radius: 9px;
     background-image: url(symbol/shelter.png);
     background-repeat: no-repeat;
-    padding: 50px 5px 25px 5px;
+    padding: 50px 15px 25px 15px;
+
 }
 
 .colum03 {
@@ -152,25 +155,34 @@ h1 {
     background-color: blueviolet;
 }
 
-.last {
-    background-color: black;
-    padding-bottom: 0;
-    margin-bottom: 0;
-    border: 0;
+.footer {
+    background-color: blueviolet
 }
 
-#bh {
-    color: red;
+.footer h2 {
     font-family: 'Arima', cursive;
     font-family: 'Poppins', sans-serif;
     font-family: 'Rubik Moonrocks', cursive;
-    padding: 20px 5px 5px 4px;
+    padding-top: 45px;
+}
+
+.footer p {
+    padding-bottom: 39px;
+}
+
+.A {
+    display: flex;
 
 }
 
-.last p {
-    color: white;
-    padding-bottom: 20px;
+.half-width {
+    width: 50%;
+    padding-right: 30px;
+    padding-left: 30px;
+}
 
-
+.half-width-image {
+    width: 50%;
+    padding: 5px;
+    padding-top: 80px;
 }
