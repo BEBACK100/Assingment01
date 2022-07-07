@@ -186,3 +186,9 @@ h1 {
     padding: 5px;
     padding-top: 80px;
 }
+
+.half-width-image1 {
+    width: 100%;
+    padding: 200px;
+    padding-top: 80px;
+}
